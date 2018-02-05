@@ -5,4 +5,9 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>ProjectOneAutomation</name>
   <description>Jenkins-Git-Maven-others-integration</description>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  
 </project>

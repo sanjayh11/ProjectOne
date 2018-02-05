@@ -24,7 +24,7 @@ public class TestCustomer {
 	@Test
 	public void testGetFirstName() {
 		//fail("Not yet implemented"); // TODO
-		assertSame("Mark", "Mark");
+		//assertSame("Mark", "Mark");
 	}
 
 	@Test
